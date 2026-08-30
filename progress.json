@@ -56,5 +56,12 @@
       "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1788109710.98532,
+    "completed_at": 1788109712.460598,
+    "comments": [],
+    "status": "Completed"
   }
 ]
