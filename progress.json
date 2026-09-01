@@ -234,50 +234,5 @@
       "Great work comparing the branches successfully!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1788235607.974924,
-    "completed_at": 1788235612.109054,
-    "comments": [
-      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1788235631.032083,
-    "completed_at": 1788235635.150754,
-    "comments": [
-      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1788235763.977347,
-    "completed_at": 1788235767.850006,
-    "comments": [
-      "You still have uncommitted changes. Commit them first on the appropriate branch first!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1788235811.561705,
-    "completed_at": 1788235816.120395,
-    "comments": [
-      "You are missing some merges"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-bender",
-    "started_at": 1788235938.588596,
-    "completed_at": 1788235943.076842,
-    "comments": [
-      "You are missing some merges"
-    ],
-    "status": "Incomplete"
   }
 ]
